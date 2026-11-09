@@ -1,0 +1,20 @@
+
+# Dependencies
+node_modules/
+
+# Environment variables (API keys)
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+.postman/
